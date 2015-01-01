@@ -1,0 +1,1 @@
+This is a test file named readme.txt, for learing git commit
